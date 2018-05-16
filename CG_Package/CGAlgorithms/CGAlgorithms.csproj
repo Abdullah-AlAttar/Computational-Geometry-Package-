@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CB99923-BEA8-42FB-8B29-B117E2221958}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CGAlgorithms</RootNamespace>
+    <AssemblyName>CGAlgorithms</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C5, Version=2.5.0.0, Culture=neutral, PublicKeyToken=282361b99ded7e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\C5.2.5.3\lib\net45\C5.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics, Version=4.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.4.4.0\lib\net40\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Spatial, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Spatial.0.4.0\lib\net40\MathNet.Spatial.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.6.4.14350, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.4.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algorithm.cs" />
+    <Compile Include="Algorithms\PointInsideTriangle.cs" />
+    <Compile Include="Algorithms\PolygonPolygonIntersection.cs" />
+    <Compile Include="Algorithms\SegmentSegmentIntersection.cs" />
+    <Compile Include="Algorithms\OrientationTest.cs" />
+    <Compile Include="Algorithms\ConvexHull\ExtremeSegments.cs" />
+    <Compile Include="Algorithms\ConvexHull\GrahamScan.cs" />
+    <Compile Include="Algorithms\ConvexHull\QuickHull.cs" />
+    <Compile Include="Algorithms\ConvexHull\JarvisMarch.cs" />
+    <Compile Include="Algorithms\ConvexHull\DivideAndConquer.cs" />
+    <Compile Include="Algorithms\ConvexHull\Incremental.cs" />
+    <Compile Include="Algorithms\ConvexHull\ExtremePoints.cs" />
+    <Compile Include="Algorithms\SegmentPolygonIntersection.cs" />
+    <Compile Include="Algorithms\PointInsideConvexPolygon.cs" />
+    <Compile Include="Algorithms\PointsInsideConcavePolygon.cs" />
+    <Compile Include="Algorithms\PolygonTriangulation\InsertingDiagonals.cs" />
+    <Compile Include="Algorithms\PolygonTriangulation\MonotonePartitioning.cs" />
+    <Compile Include="Algorithms\PolygonTriangulation\MonotoneTriangulation.cs" />
+    <Compile Include="Algorithms\PolygonTriangulation\SubtractingEars.cs" />
+    <Compile Include="Algorithms\SegmentIntersection\SweepLine.cs" />
+    <Compile Include="Algorithms\SupportingLine.cs" />
+    <Compile Include="Data Structures\Algorithms.cs" />
+    <Compile Include="Data Structures\Bag.cs" />
+    <Compile Include="Data Structures\BigList.cs" />
+    <Compile Include="Data Structures\CollectionBase.cs" />
+    <Compile Include="Data Structures\Comparers.cs" />
+    <Compile Include="Data Structures\Deque.cs" />
+    <Compile Include="Data Structures\DictionaryBase.cs" />
+    <Compile Include="Data Structures\Hash.cs" />
+    <Compile Include="Data Structures\ListBase.cs" />
+    <Compile Include="Data Structures\MultiDictionary.cs" />
+    <Compile Include="Data Structures\MultiDictionaryBase.cs" />
+    <Compile Include="Data Structures\OrderedBag.cs" />
+    <Compile Include="Data Structures\OrderedDictionary.cs" />
+    <Compile Include="Data Structures\OrderedMultiDictionary.cs" />
+    <Compile Include="Data Structures\OrderedSet.cs" />
+    <Compile Include="Data Structures\Pair.cs" />
+    <Compile Include="Data Structures\ReadOnlyCollectionBase.cs" />
+    <Compile Include="Data Structures\ReadOnlyDictionaryBase.cs" />
+    <Compile Include="Data Structures\ReadOnlyListBase.cs" />
+    <Compile Include="Data Structures\ReadOnlyMultiDictionaryBase.cs" />
+    <Compile Include="Data Structures\RedBlack.cs" />
+    <Compile Include="Data Structures\Set.cs" />
+    <Compile Include="Data Structures\Strings.cs" />
+    <Compile Include="Data Structures\Triple.cs" />
+    <Compile Include="Data Structures\Util.cs" />
+    <Compile Include="DCEL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CGUtilities\CGUtilities.csproj">
+      <Project>{2cf0939d-73cf-4863-b088-db3ff4003450}</Project>
+      <Name>CGUtilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,42 @@
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\bin\Debug\CGUtilities.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\bin\Debug\CGUtilities.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGUtilities.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGUtilities.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\System.ValueTuple.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\System.ValueTuple.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\nunit.framework.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\nunit.framework.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\MathNet.Numerics.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\MathNet.Spatial.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\MathNet.Numerics.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\MathNet.Spatial.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGAlgorithms.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGAlgorithms.pdb
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGUtilities.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\MathNet.Numerics.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\MathNet.Spatial.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\nunit.framework.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\System.ValueTuple.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\CGUtilities.pdb
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\MathNet.Numerics.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\MathNet.Spatial.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\nunit.framework.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\System.ValueTuple.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.csprojResolveAssemblyReference.cache
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CoreCompileInputs.cache
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.pdb
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\obj\Debug\CGAlgorithms.csproj.CopyComplete
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\C5.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGAlgorithms\bin\Debug\C5.xml
