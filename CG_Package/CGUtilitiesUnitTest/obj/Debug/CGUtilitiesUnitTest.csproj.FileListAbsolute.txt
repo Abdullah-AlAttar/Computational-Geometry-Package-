@@ -1,0 +1,24 @@
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilities.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilities.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilities.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\MathNet.Numerics.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\MathNet.Spatial.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\System.ValueTuple.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilities.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\MathNet.Numerics.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\MathNet.Spatial.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\System.ValueTuple.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.pdb
