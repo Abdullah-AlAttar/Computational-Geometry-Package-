@@ -1,0 +1,199 @@
+c:\users\muhammad abbady\documents\visual studio 2013\Projects\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\Styles.baml
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Muhammad Abbady\Documents\Visual Studio 2013\Projects\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\Muhammad Abbady\SourceTree\cg\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUI.exe.config
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUI.exe
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUI.pdb
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUtilities.dll
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\App.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\App.g.cs
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\MainWindow.baml
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.g.resources
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.exe
+D:\#Sharaf\College\FCIS\CG Package\cgTeam\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Bassel\Desktop\CGUI\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.exe
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUI.exe
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUI.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\App.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\App.g.cs
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\MainWindow.baml
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\Bassel\Desktop\CGUI - preparation\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUI.exe.config
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.exe
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUI.exe
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUI.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGAlgorithms.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUtilities.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGAlgorithms.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\bin\Debug\CGUtilities.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\Styles\UIStyles.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\Styles\DrawingStyle.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\Styles\ResultStyle.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\App.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\MainWindow.g.cs
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\App.g.cs
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\MainWindow.baml
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.g.resources
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.exe.config
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.exe
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGAlgorithms.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUtilities.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGAlgorithms.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUtilities.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\UIStyles.baml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\DrawingStyle.baml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\ResultStyle.baml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\App.baml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\MainWindow.g.cs
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\App.g.cs
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\MainWindow.baml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.g.resources
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csproj.CoreCompileInputs.cache
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.exe
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.pdb
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\System.ValueTuple.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\nunit.framework.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\nunit.framework.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\MathNet.Numerics.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\MathNet.Spatial.dll
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\MathNet.Numerics.xml
+C:\Users\runmd\Desktop\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\MathNet.Spatial.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.exe.config
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.exe
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUI.pdb
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGAlgorithms.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUtilities.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\MathNet.Numerics.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\MathNet.Spatial.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\nunit.framework.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\System.ValueTuple.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGAlgorithms.pdb
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\CGUtilities.pdb
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\MathNet.Numerics.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\MathNet.Spatial.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\nunit.framework.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\System.ValueTuple.xml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csprojResolveAssemblyReference.cache
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\UIStyles.baml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\DrawingStyle.baml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\Styles\ResultStyle.baml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\App.baml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\MainWindow.g.cs
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\App.g.cs
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI_MarkupCompile.cache
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI_MarkupCompile.lref
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\MainWindow.baml
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.g.resources
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.Properties.Resources.resources
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csproj.GenerateResource.Cache
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csproj.CoreCompileInputs.cache
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.exe
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.pdb
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\obj\Debug\CGUI.csproj.CopyComplete
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\C5.dll
+E:\College 4th year second erm\Geo\labs\Lab 1\CGUI V.2\CGUI\bin\Debug\C5.xml
